@@ -1,2 +1,2 @@
 # Netflix Data Analysis using SQL
-[Netfli Logo]()
+![Netflix Logo](https://github.com/NavyaeSolanki/netflix_project/blob/main/logo.png)
